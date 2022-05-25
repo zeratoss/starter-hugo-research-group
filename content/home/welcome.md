@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Beautiful Green Hospital Lab
+title: Green Hospital Lab
 hero_media: welcome.jpg
 widget_id: header-name
 design:
@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-The **Beautiful Green Hospital Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Green Hospital Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
