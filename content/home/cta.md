@@ -1,13 +1,10 @@
 ---
-title:
-subtitle:
 widget: blank
+widget_id: team-link
 headless: true
-weight: 40
-design:
-  columns: '1'
-  background:
-     color: "f7f7f7"
+weight: 30
+title:
+subtitle: null
 ---
 
 
