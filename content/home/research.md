@@ -1,8 +1,6 @@
 ---
-advanced:
-  css_class: fullscreen
 widget: blank
-widget_id: startpage-pic
+widget_id: research
 headless: true
 weight: 30
 title: "Research"
