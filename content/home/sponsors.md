@@ -1,8 +1,9 @@
 ---
-title:Sponsored by
-subtitle:
 widget: blank
 headless: true
+
+title:Sponsored by
+subtitle:
 weight: 60
 design:
   columns: '1'
