@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 
-title: Sponsored_by
+title: "Supported by"
 subtitle:
 weight: 60
 design:
