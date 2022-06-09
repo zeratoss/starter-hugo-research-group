@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Green Hospital Lab
-hero_media: cell-pic.TIF
+hero_media: cell-pic.jpg
 widget_id: header-name
 design:
   columns: "1"
