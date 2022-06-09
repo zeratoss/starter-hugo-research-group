@@ -7,7 +7,9 @@ weight: 40
 design:
   columns: '1'
   background:
-     color: "grey"
+     color: "f7f7f7"
 ---
+
+
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
