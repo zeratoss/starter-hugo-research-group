@@ -4,6 +4,7 @@ headless: true
 weight: 10
 title: Green Hospital Lab
 hero_media: cell-pic.jpg
+image_size: cover
 widget_id: header-name
 design:
   columns: "1"
