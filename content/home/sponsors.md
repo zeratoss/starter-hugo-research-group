@@ -5,8 +5,7 @@ headless: true
 title: "Supported by"
 subtitle: null
 weight: 60
-design:
-  columns: '1'
+
 ---
 
 
