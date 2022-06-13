@@ -1,7 +1,5 @@
 ---
 widget: blank
-headless: true
-
 title: "Supported by"
 subtitle:
 weight: 60
