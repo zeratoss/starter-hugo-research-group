@@ -11,4 +11,4 @@ weight: 60
 
 <br>
 
-{{< gallery album="sponsors" resize_options="200x" >}}
+{{< gallery album="sponsors" resize_options="200x115" >}}
